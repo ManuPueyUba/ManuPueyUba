@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @Manuel Pueyrredon
-- 🏫 I'm Currently in 4rd year of Informatics Engineering at UBA (Universidad de Buenos Aires), Argentina.
-- 👀 I’m interested in Software Development, Problem Solving, AI
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on any project you have
-- 📫 How to reach me manupuey03@gmail.com
-- ⚡ Fun fact: I, love to travel, meet new people and ski
+## Hi, I’m Manuel Pueyrredon
 
-<!---
-ManuPueyUba/ManuPueyUba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a 4th-year Computer Engineering student at the University of Buenos Aires (UBA), Argentina, with a strong interest in backend development, software engineering, and applied machine learning.
+
+### Interests
+- Backend & Software Development  
+- Problem Solving and Systems Design  
+- Machine Learning / NLP  
+
+### Currently Learning
+- Concurrent Programming  
+- Software Engineering II  
+- Technology-Based Companies II  
+- Machine Learning  
+
+### Collaboration
+I’m open to collaborating on projects related to backend systems, APIs, software architecture, or machine learning.
+
+### Contact
+- Email: manupuey03@gmail.com  
+- GitHub: https://github.com/ManuPueyUba  
+- LinkedIn: ([add your link here if you want](https://www.linkedin.com/in/manuel-pueyrredon-660924241/))
+
+### Fun Fact
+I enjoy traveling, meeting new people, and skiing.
