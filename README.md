@@ -19,7 +19,7 @@ I’m open to collaborating on projects related to backend systems, APIs, softwa
 ### Contact
 - Email: manupuey03@gmail.com  
 - GitHub: https://github.com/ManuPueyUba  
-- LinkedIn: ([add your link here if you want](https://www.linkedin.com/in/manuel-pueyrredon-660924241/))
+- LinkedIn: ([Manuel Pueyrredon](https://www.linkedin.com/in/manuel-pueyrredon-660924241/))
 
 ### Fun Fact
 I enjoy traveling, meeting new people, and skiing.
